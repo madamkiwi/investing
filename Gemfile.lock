@@ -79,6 +79,7 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
+    pg (0.15.1)
     pkg-config (1.1.7)
     quandl (1.0.3)
       activesupport (>= 4.2.3)
@@ -163,6 +164,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
+  pg
   quandl
   rails (= 4.2.5.1)
   sass-rails (~> 5.0)
